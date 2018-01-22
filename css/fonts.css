@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'ArialN';
+    /*src: url('../fonts/ArialN.ttf');*/
+    src: local('☺'), url('../fonts/ArialN.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FjallaOne';
+    /*src: url('../fonts/FjallaOne-Regular.ttf');*/
+    src: local('☺'), url('../fonts/FjallaOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    /*src: url('../fonts/Lato-Regular.ttf');*/
+    src: local('☺'), url('../fonts/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
